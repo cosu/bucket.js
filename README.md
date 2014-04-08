@@ -13,6 +13,6 @@ A simple NodeJS file management web server
        * inode information
        * SHA256 checksums  
 
-* Parallel file operations 
+* Parallel asynchronous file operations 
        * inode information
        * delete
