@@ -4,15 +4,15 @@ bucket.js
 A simple NodeJS file management web server
 
 ## Features
-* Asynchronous basic file operations:
+* Single asynchronous basic file operations:
        * upload (PUT)
        * download
        * delete
 
-* Asynchronous file metadata retrieval:
+* Single asynchronous file metadata retrieval:
        * inode information
        * SHA256 checksums  
 
-* Parallel asynchronous file operations 
+* Multiple parallel asynchronous file operations 
        * inode information
        * delete
