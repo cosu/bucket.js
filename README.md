@@ -11,7 +11,7 @@ A simple NodeJS file management web server
 
 * Single asynchronous file metadata retrieval:
        * inode information
-       * SHA256 checksums  
+       * SHA256 checksum
 
 * Multiple parallel asynchronous file operations 
        * inode information
