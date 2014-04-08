@@ -20,6 +20,7 @@ A simple NodeJS file management web server
 ## TODO:
 * Refactor
 * Load settings from configuration file
+* Use a proper logger library
 * Multipart POST upload
 * SSL streams (with client authentication)
 * Zlib on-the-fly compression
